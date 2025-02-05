@@ -1,4 +1,4 @@
-# youshallnotpassword 
+# My not so secret diary
 School project for Seoultech
 The code was written by me.
 Lisence PSFL
